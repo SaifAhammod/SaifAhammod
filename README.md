@@ -7,6 +7,7 @@
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
 ## Some things I use
+</br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
