@@ -6,7 +6,13 @@
 <p1 align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p1>
-
+## Some things I use
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-ar21.svg</code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg</code>
+<code><img height="50" src="</code>
+<code><img height="50" src="</code>
+<code><img height="50" src="</code>
+<code><img height="50" src="</code>
 
 
 
