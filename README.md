@@ -6,7 +6,7 @@
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
-Something I can use
+## External Websites
 </br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
@@ -21,9 +21,7 @@ Something I can use
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
-* [ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
-* [Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
-* [LinkedIn](https://www.linkedin.com/in/aaneloy/)
+- 🌱 I’m currently learning ...
 
 
 <!--
