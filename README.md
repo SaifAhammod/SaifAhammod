@@ -6,7 +6,8 @@
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
-# Something I can use
+Something I can use
+</br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
@@ -18,6 +19,19 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
+## External Websites
+* [Personal Website](https://saif4.netlify.app/)
+* [ResearchGate](https://www.researchgate.net/profile/Asif_Neloy)
+* [Google Scholar](https://scholar.google.com/citations?user=WjL1EDcAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/aaneloy/)
+
+
+<!--
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=aaneloy&show_icons=true&hide_border=true)
+![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&layout=compact&hide_border=true)
+<!--
+**NeloyNSU/NeloyNSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
