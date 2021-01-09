@@ -14,14 +14,15 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
-- 🌱 I’m currently learning ...
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=msak04&theme=dracula&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
 
 <!--
