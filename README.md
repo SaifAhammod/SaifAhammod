@@ -6,8 +6,9 @@
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
-## External Websites
-</br>
+
+## Something I used
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
