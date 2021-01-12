@@ -21,6 +21,8 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
+* [Twitter](https://twitter.com/S4IF_KHAN)
+
 </br>
 </br>
 </br>
