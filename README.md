@@ -2,7 +2,7 @@
 # Md. Saif Ahammod Khan
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
-
+![Profile views](https://gpvc.arturio.dev/msak04)
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
@@ -36,7 +36,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=msak04&theme=dracula&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
-![Profile views](https://gpvc.arturio.dev/msak04)
+
 <!--
 **msak04/msak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
