@@ -22,10 +22,11 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4hqDuVksmXZDOL5GTs5F0CoRayE0Nzdyw&usqp=CAU"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp97AbAfnOnQxMZKatdzXsWBauoFw72ip6iw&usqp=CAU"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="40" src="https://content.instructables.com/ORIG/FN3/EKLM/HWL2BOAS/FN3EKLMHWL2BOAS.png?fit=bounds&frame=1&height=1024&width=1024&auto=webp&frame=1&height=300"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
-<code><img height="40" src="https://content.instructables.com/ORIG/FN3/EKLM/HWL2BOAS/FN3EKLMHWL2BOAS.png?fit=bounds&frame=1&height=1024&width=1024&auto=webp&frame=1&height=300"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
 * [Twitter](https://twitter.com/S4IF_KHAN)
@@ -39,6 +40,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
 - 🌱 I’m currently learning Android App Develop
+- ⚡ I’m interested in Robotics, Android Application and Website
 
 <!--
 **msak04/msak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
