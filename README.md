@@ -9,10 +9,11 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 
 ## ABOUT ME
-- 🔭 I’m currently working on Android App Develop
+- 🔭 I’m currently working on Android App Development.
 - ⚡ I’m interested in Robotics, Android Application and Website
 - 🎯 My current goal is to learn Java Script, Python and Mechine Learning
 - 📫 How to reach me: Email
+- ⚡ Fun fact: My fev food is Potato
 
 
 ## GIT STATUS
@@ -60,5 +61,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
  ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
