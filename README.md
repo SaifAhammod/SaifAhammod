@@ -10,10 +10,11 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 ## ABOUT ME
 - 🔭 I’m currently working on Android App Development.
-- ⚡ I’m interested in Robotics, Android Application and Website
+- 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
+- 🔧  I’m interested in Robotics, Android Application and Website
 - 🎯 My current goal is to learn Java Script, Python and Mechine Learning
 - 📫 How to reach me: Email
-- ⚡ Fun fact: My fev food is Potato
+- 🎨 Fun fact: My fev food is Potato
 
 
 ## GIT STATUS
