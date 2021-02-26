@@ -11,9 +11,9 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 ## ABOUT ME
 - 🔭 I’m currently working on Android App Development.
 - 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
-- 🔧  I’m interested in Robotics, Android Application and Website
-- 🎯 My current goal is to learn Java Script, Python and Mechine Learning
-- 📫 How to reach me: Email
+- 🔧  I’m interested in Robotics, Android Application and Web Development.
+- 🎯 My current goal is to learn Java Script, Python, Unity and Mechine Learning.
+- 📫 How to reach me: I am active in facebook and I also check email regular.
 - 🎨 Fun fact: My fev food is Potato
 
 
@@ -24,6 +24,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
+* [Facebook](https://www.facebook.com/msak04)
 * [Twitter](https://twitter.com/S4IF_KHAN)
 * [Research Gate](https://www.researchgate.net/profile/Md_Saif_Khan)
 
