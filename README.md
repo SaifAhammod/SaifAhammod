@@ -27,6 +27,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 * [Facebook](https://www.facebook.com/msak04)
 * [Twitter](https://twitter.com/S4IF_KHAN)
 * [Research Gate](https://www.researchgate.net/profile/Md_Saif_Khan)
+* [Google Scholar](https://www.researchgate.net/profile/Md_Saif_Khan)
 
 
 ## Tools & Language
@@ -51,6 +52,13 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSyWN3NTgVt613TRMroNlh_t52vo3tbXW2A&usqp=CAU"></code>
 <code><img height="50" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
 <code><img height="50" src="https://zsyst.com/wp-content/uploads/2017/05/Adobe-Premiere-Pro-Logo.png"></code>
+
+## Worked With
+* [Asif Ahmed Neloy](https://saif4.netlify.app/)
+* [Sazid Alam Anik](https://saif4.netlify.app/)
+* [Ridwanul Haque](https://saif4.netlify.app/)
+* [Nasim Mahmud](https://saif4.netlify.app/)
+* [Riyad Hossain](https://saif4.netlify.app/)
 
 <!--
 **msak04/msak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
