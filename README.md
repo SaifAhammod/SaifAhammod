@@ -28,7 +28,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 * [Facebook](https://www.facebook.com/msak04)
 * [Twitter](https://twitter.com/S4IF_KHAN)
 * [Research Gate](https://www.researchgate.net/profile/Md_Saif_Khan)
-* [Google Scholar](https://www.researchgate.net/profile/Md_Saif_Khan)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ)
 
 
 ## Tools & Language
