@@ -55,11 +55,9 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://zsyst.com/wp-content/uploads/2017/05/Adobe-Premiere-Pro-Logo.png"></code>
 
 ## Worked With
-* [Asif Ahmed Neloy](https://saif4.netlify.app/)
-* [Sazid Alam Anik](https://saif4.netlify.app/)
-* [Ridwanul Haque](https://saif4.netlify.app/)
-* [Nasim Mahmud](https://saif4.netlify.app/)
-* [Riyad Hossain](https://saif4.netlify.app/)
+* [Ridwanul Haque](https://github.com/rhridwan)
+* [Nasim Mahmud](https://github.com/Nasim-Mahmud)
+* [Riyad Hossain](https://github.com/riyad1721)
 
 <!--
 **msak04/msak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
