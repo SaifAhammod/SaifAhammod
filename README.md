@@ -40,6 +40,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://1.bp.blogspot.com/-bik6AotfT0M/X4R87hMVaqI/AAAAAAAAPws/JmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ/s0/AndroidStudio_logo.png"></code>
+<code><img height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0pUPeFmU007dovopz3IAqytqDyuUMsTcSw&usqp=CAU"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4hqDuVksmXZDOL5GTs5F0CoRayE0Nzdyw&usqp=CAU"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp97AbAfnOnQxMZKatdzXsWBauoFw72ip6iw&usqp=CAU"></code>
