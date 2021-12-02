@@ -12,7 +12,7 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 ## ABOUT ME
 - 🔭 I’m currently working on Android App Development.
 - 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
-- 🔧  I’m interested in Robotics, Android Application and Web Development.
+- 🔧  I’m interested in Robotics, Artificial Intelligence, Android Application Development.
 - 🎯 My current goal is to learn Java Script, Python, Unity and Mechine Learning.
 - 📫 How to reach me: I am active in facebook and I also check email regular.
 - 🎨 Fun fact: My fev food is Potato
@@ -49,12 +49,14 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 <code><img height="30" src="https://git-scm.com/images/logos/2color-lightbg@2x.png"></code>
 <code><img height="40" src="https://content.instructables.com/ORIG/FN3/EKLM/HWL2BOAS/FN3EKLMHWL2BOAS.png?fit=bounds&frame=1&height=1024&width=1024&auto=webp&frame=1&height=300"></code>
 <code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_33b227ccb262698c084f608cd5448aea/atlas-ti.png"></code>
+<code><img height="50" src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSyWN3NTgVt613TRMroNlh_t52vo3tbXW2A&usqp=CAU"></code>
 <code><img height="50" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
 <code><img height="50" src="https://zsyst.com/wp-content/uploads/2017/05/Adobe-Premiere-Pro-Logo.png"></code>
+
 
 ## Worked With
 * [Ridwanul Haque](https://github.com/rhridwan)
