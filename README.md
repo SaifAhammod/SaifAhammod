@@ -1,9 +1,9 @@
-<a target="_blank"><img height = "260" width="300" align="right" src="https://github.com/msak04/msak04/blob/main/IMG_0518.JPG"></a>
+<a target="_blank"><img height = "260" width="300" align="right" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/IMG_0518.JPG"></a>
 ### Hi there 👋
 # I am Saif Ahammod Khan
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
-![Profile views](https://gpvc.arturio.dev/msak04)
+![Profile views](https://gpvc.arturio.dev/saif-ahammod)
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
@@ -19,8 +19,8 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 
 
 ## GIT STATUS
-![My Github stats](https://github-readme-stats.vercel.app/api?username=msak04&theme=dracula&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msak04&theme=dracula&layout=compact&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&theme=dracula&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-ahammod&theme=dracula&layout=compact&hide_border=true)
 
 
 ## External Websites
