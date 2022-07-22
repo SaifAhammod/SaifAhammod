@@ -1,4 +1,6 @@
-<a target="_blank"><img height = "260" width="300" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/IMG_0518.JPG"></a>
+<a target="_blank"><img height = "400" width="1000" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/saifgit.jpg"></a>
+
+
 ### Hi there 👋
 # I am Saif Ahammod Khan
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
