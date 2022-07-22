@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "260" width="300" align="right" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/IMG_0518.JPG"></a>
+<a target="_blank"><img height = "260" width="300" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/IMG_0518.JPG"></a>
 ### Hi there 👋
 # I am Saif Ahammod Khan
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
@@ -18,10 +18,17 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 - 🎨 Fun fact: My fev food is Potato
 
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">Github Streaks</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saif-ahammod&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=08FF08&ring=08FF08&fire=FFDE00&currStreakLabel=FFAD00&currStreakNum=ed1d24&sideNums=00AEEF&sideLabels=FFAD00&dates=C5B4E3&background=DD272700">
+  
+  ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&show_icons=true&theme=highcontrast)
+  
+  
+  
 </div>
+
+
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
