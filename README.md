@@ -18,14 +18,10 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
 - 🎨 Fun fact: My fev food is Potato
 
 
-## GIT STATUS
 <h2 align="center">Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saif-ahammod&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
-![My Github stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&theme=dracula&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-ahammod&theme=dracula&layout=compact&hide_border=true)
-
 
 ## External Websites
 * [Personal Website](https://saif4.netlify.app/)
