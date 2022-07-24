@@ -27,6 +27,8 @@ I am studying <b>Computer Science Engineering</b> at  <a href="http://www.norths
   ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&show_icons=true&theme=highcontrast)
   
   
+
+<a href="#"><img alt="Saif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-ahammod&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
   
 </div>
 
