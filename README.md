@@ -1,11 +1,12 @@
 <a target="_blank"><img height = "400" width="1000" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/saifgit.jpg"></a>
 
+![Profile views](https://gpvc.arturio.dev/saif-ahammod)
 
 ### Hi there 👋
 # I am Saif Ahammod Khan
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
-![Profile views](https://gpvc.arturio.dev/saif-ahammod)
+
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
