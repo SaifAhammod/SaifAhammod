@@ -7,6 +7,16 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
 
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCltyvTSm1860UvUkWZ7n9SQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/S4IF_KHAN"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
+  <a href=""><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
+  <a href=""><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
+
 <p align="justify">
 I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
