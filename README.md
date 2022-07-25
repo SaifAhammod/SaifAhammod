@@ -16,7 +16,7 @@
 
 
 <p align="justify">
-I am studying <b>Computer Science Engineering</b> at  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
+I am a <b>Computer Science Engineer</b></a>
 </p>
 
 
