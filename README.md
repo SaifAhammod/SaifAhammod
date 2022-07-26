@@ -37,6 +37,7 @@ I am a <b>Computer Science Engineer</b></a>
 
 - ⚡ Fun fact **My favourite food is potato.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s4if_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4if_khan" height="30" width="40" /></a>
@@ -68,7 +69,7 @@ I am a <b>Computer Science Engineer</b></a>
 <a href="#"><img alt="Saif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-ahammod&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-ahammod" alt="saif-ahammod" /></a> </p>
 
 ## Worked With
 * [Ridwanul Haque](https://github.com/rhridwan)
