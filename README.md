@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "400" width="1000" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/saifgit.jpg"></a>
+<a target="_blank"><img height = "400" width="1000" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/s.png"></a>
 
 ![Profile views](https://gpvc.arturio.dev/saif-ahammod)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
@@ -69,7 +69,7 @@ I am a <b>Computer Science Engineer</b></a>
 <a href="#"><img alt="Saif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-ahammod&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-ahammod" alt="saif-ahammod" /></a> </p>
+
 
 ## Worked With
 * [Ridwanul Haque](https://github.com/rhridwan)
