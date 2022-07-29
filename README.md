@@ -29,7 +29,7 @@ I am a <b>Computer Science Engineer</b></a>
 
 - 📝 I regularly write articles on [https://saifahammod.me/](https://saifahammod.me/)
 
-- 💬 Ask me about **Java, Robotics and Movies**
+- 💬 Ask me about **Java,  and Robotics**
 
 - 📫 How to reach me **saif.ahammod@gmail.com**
 
