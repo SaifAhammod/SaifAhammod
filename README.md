@@ -10,7 +10,7 @@
 
 
 <p align="justify">
-I am a <b>Computer Science Engineer</b></a>
+I am a <b>Android App Developer</b></a>
 </p>
 
 
