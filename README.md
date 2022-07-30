@@ -51,7 +51,7 @@ I am a <b>Android App Developer</b></a>
 
 
 ## External Websites
-* [Personal Website](https://saif4.netlify.app/)
+* [Personal Website](https://saifahammod.me/)
 * [Research Gate](https://www.researchgate.net/profile/Md_Saif_Khan)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ)
 
