@@ -62,13 +62,12 @@ I am a <b>Android App Developer</b></a>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saif-ahammod&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=08FF08&ring=08FF08&fire=FFDE00&currStreakLabel=FFAD00&currStreakNum=ed1d24&sideNums=00AEEF&sideLabels=FFAD00&dates=C5B4E3&background=DD272700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saif-ahammod&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=08FF08&ring=11FfEE&fire=FFDE00&currStreakLabel=FFAD00&currStreakNum=ed1d24&sideNums=00AEEF&sideLabels=11FfEE&dates=C5B4E3&background=DD272700">
   
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&show_icons=true&theme=highcontrast)
  
-<a href="#"><img alt="Saif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-ahammod&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Saif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-ahammod&bg_color=DD272700&color=00FF9B&line=11FfEE&point=FFFFFF&hide_border=true" /></a>
 </div>
-
 
 
 ## Worked With
