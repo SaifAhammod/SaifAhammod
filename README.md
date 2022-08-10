@@ -23,7 +23,7 @@ I am a <b>Android App Developer</b></a>
 
 - 🤝 I’m looking for help with [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
 -->
-- 👨‍💻 All of my major projects are available at <a href="https://saifahammod.me/" target="_blank">Projects</a>
+- 👨‍💻 All of my major projects are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
 
 - 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
 
