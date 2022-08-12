@@ -23,17 +23,17 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 - 🤝 I’m looking for help with [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
 -->
-- 👨‍💻 All of my major projects are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
+- 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
 
 - 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
-
+<!--
 - 📝 I regularly write articles on [https://saifahammod.me/](https://saifahammod.me/)
-
+-->
 - 💬 Ask me about **Java,  and Robotics**
 
-- 📫 How to reach me **saif.ahammod@gmail.com**
+- 📫 To reach me mail me **saif.ahammod@gmail.com**
 
-- 📄 Know about my experiences [https://saifahammod.me/](https://saifahammod.me/)
+- 📄 Know about my experiences [Experience](https://saifahammod.me/)
 
 - ⚡ Fun fact **My favourite food is potato.**
 
