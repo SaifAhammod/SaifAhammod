@@ -47,12 +47,12 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://instagram.com/s41f_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s41f_khan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/s41f khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s41f khan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/eAmRNNMr9N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eAmRNNMr9N" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Md_Saif_Khan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-2752086-2284903.png" alt="https://www.researchgate.net/profile/Md_Saif_Khan" height="30" width="30" /></a>
 </p>
 
 
 ## External Websites
 * [Personal Website](https://saifahammod.me/)
-* [Research Gate](https://www.researchgate.net/profile/Md_Saif_Khan)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ)
 
 <h3 align="left">Languages and Tools:</h3>
