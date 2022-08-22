@@ -53,7 +53,6 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 
 ## External Websites
-* [Personal Website](https://saifahammod.me/)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ)
 
 <h3 align="left">Languages and Tools:</h3>
