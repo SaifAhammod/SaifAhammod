@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "400" width="1000" align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/s.png"></a>
+<a target="_blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/s.png"></a>
 
 ![Profile views](https://gpvc.arturio.dev/saif-ahammod)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
