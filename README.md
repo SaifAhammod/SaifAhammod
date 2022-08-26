@@ -33,7 +33,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 - 📫 To reach me mail me **saif.ahammod@gmail.com**
 
-- 📄 Know about my experiences [Experience](https://saifahammod.me/)
+- 📄 Know about my experiences [Experience](https://saifahammod.me/experience.html)
 
 - ⚡ Fun fact **My favourite food is potato.**
 
