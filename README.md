@@ -31,8 +31,9 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 -->
 - 💬 Ask me about **Java,  and Robotics**
 
+<!-- 
 - 📫 To reach me mail me at **saif.ahammod@gmail.com**
-
+-->
 - 📄 Know about my experiences [Experience](https://saifahammod.me/experience.html)
 
 - ⚡ Fun fact **My favourite food is potato.**
