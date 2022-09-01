@@ -14,7 +14,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 </p>
 
 
-## ABOUT ME
+<h2 align="left">About me:</h2>
 - 🔭 I’m currently working on [Personal Portfolio](https://saifahammod.me/)
 
 - 🌱 I’m currently learning [Flutter and Dart](https://github.com/saif-ahammod/Flutter-and-Dart)
@@ -39,7 +39,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 - ⚡ Fun fact **My favourite food is potato.**
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://saifahammod.me/" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/coding.png" alt="saifahammod.me" height="30" width="30" /></a>
 <a href="https://twitter.com/s4if_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4if_khan" height="30" width="40" /></a>
