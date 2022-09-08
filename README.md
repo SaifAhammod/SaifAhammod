@@ -53,7 +53,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://www.researchgate.net/profile/Md_Saif_Khan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-2752086-2284903.png" alt="https://www.researchgate.net/profile/Md_Saif_Khan" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/gs.png" alt="saifahammod.me" height="30" width="30" /></a>
 </p>
-
+<h2 align="left">Technical Skills:</h2>
 <h3 align="left">Programming Language:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
