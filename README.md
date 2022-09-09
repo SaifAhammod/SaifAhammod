@@ -51,7 +51,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://www.youtube.com/c/s41f khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s41f khan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/eAmRNNMr9N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eAmRNNMr9N" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Md_Saif_Khan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-2752086-2284903.png" alt="https://www.researchgate.net/profile/Md_Saif_Khan" height="30" width="30" /></a>
-<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/gs.png" alt="saifahammod.me" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/gs.png" alt="saifahammod.me" height="30" width="30" /></a>
 </p>
 <h2 align="left">Technical Skills:</h2>
 <h3 align="left">Programming Language:</h3>
@@ -78,6 +78,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/prpro.png" alt="Premier Pro" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
