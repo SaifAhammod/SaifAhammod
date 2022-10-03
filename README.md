@@ -101,6 +101,8 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <h3 align="left">Operating System:</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/xml/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/windows.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/xml/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/raspbian.png" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Editing Tools:</h3>
