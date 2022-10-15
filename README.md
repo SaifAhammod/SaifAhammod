@@ -106,6 +106,14 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://www.w3schools.com/xml/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/raspbian.png" alt="css3" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Electronic Design:</h3>
+<p align="left"> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/logisim.png" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+
+</p>
+
 <h3 align="left">Editing Tools:</h3>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
