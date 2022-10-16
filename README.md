@@ -16,11 +16,11 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 <h2 align="left">About me:</h2>
 
+- 🔭 I’m currently working on [Personal Portfolio](https://saifahammod.me/)
 
 
 - 🌱 I’m currently learning [Flutter and Dart](https://github.com/saif-ahammod/Flutter-and-Dart)
 <!--
-- 🔭 I’m currently working on [Personal Portfolio](https://saifahammod.me/)
 - 👯 I’m looking to collaborate on [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
 
 - 🤝 I’m looking for help with [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
