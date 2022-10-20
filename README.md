@@ -109,8 +109,8 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <h3 align="left">Electronic Design:</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/logisim.png" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/fritzing-icon.png" alt="fritzing" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/proteus.png" alt="photoshop" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/fritzing-icon.png" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/proteus.png" width="40" height="40"/> </a>
 
 </p>
 
