@@ -30,7 +30,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <!--
 - 📝 I regularly write articles on [https://saifahammod.me/](https://saifahammod.me/)
 -->
-- 💬 Ask me about **Java,  and Robotics**
+- 💬 Ask me about **Java and Robotics**
 
 <!-- 
 - 📫 To reach me mail me at **saif.ahammod@gmail.com**
