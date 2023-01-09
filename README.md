@@ -127,7 +127,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 
 
-<h2 align="center">Github Streaks</h2>
+<h2 align="center">Github Streaks:</h2>
 
 <div align="center">
 
