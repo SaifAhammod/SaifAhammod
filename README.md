@@ -72,7 +72,8 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 <h3 align="left">Framework:</h3>
 <p align="left">      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>            </p>
-
+<h3 align="left">Programming Language:</h3>
+<p align="left">      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>            </p>
 <h3 align="left">Database Tools:</h3>
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
