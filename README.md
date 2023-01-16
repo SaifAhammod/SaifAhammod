@@ -75,9 +75,9 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 <h3 align="left">IDE:</h3>
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/eclipse.png" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/eclipse.png" alt="flutter" width="40" height="40"/> </a>  
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/eclipse.png" alt="flutter" width="40" height="40"/> </a>  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/eclipse.png" alt="Eclipse" width="40" height="40"/> </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/codeblocks.png" alt="Code Blocks" width="40" height="40"/> </a>  
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/spyder.png" alt="Spyder" width="40" height="40"/> </a>  
 </p>
 
 <h3 align="left">Database Tools:</h3>
@@ -103,11 +103,13 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
+
 <h3 align="left">Platform:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
+
 <h3 align="left">Operating System:</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
