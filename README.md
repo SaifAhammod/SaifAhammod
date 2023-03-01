@@ -147,7 +147,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 
 
-<h2 align="center">Github Streaks:</h2>
+<h2 align="center">Github Streaks :</h2>
 
 <div align="center">
 
@@ -163,4 +163,4 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 * [Ridwanul Haque](https://github.com/rhridwan)
 * [Nasim Mahmud](https://github.com/Nasim-Mahmud)
 * [Riyad Hossain](https://github.com/riyad1721)
-* [Zahidul Islam](https://github.com/kabbo642)
+
