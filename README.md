@@ -16,7 +16,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
 
 <h2 align="left">About me:</h2>
 
-- 🔭 I’m currently working on [Mechine Learning](https://github.com/saif-ahammod/)
+- 🔭 I’m currently working on [Object Detection]([https://github.com/saif-ahammod/](https://github.com/saif-ahammod/Fire-and-smoke-detection))
 
 - 🌱 I’m currently learning [Flutter and Dart](https://github.com/saif-ahammod/Flutter-and-Dart)
 <!--
