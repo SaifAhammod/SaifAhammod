@@ -155,7 +155,7 @@ I am a <b>computer science engineer</b>. My area of expertise is <b>artificial i
   
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&show_icons=true&theme=highcontrast)
  
-<a href="#"><img alt="Nasim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saif-ahammod&bg_color=DD272700&color=08FF08&line=11FfEE&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Saif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saif-ahammod&bg_color=DD272700&color=08FF08&line=11FfEE&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 
