@@ -1,6 +1,6 @@
 <a target="_blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/s.png"></a>
 
-![Profile views](https://gpvc.arturio.dev/saif-ahammod)
+![](https://komarev.com/ghpvc/?username=saif-ahammod&color=yellowgreen)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@northsouth.edu)
 
 
