@@ -11,7 +11,7 @@
 
 
 <p align="justify">
-I am a <b>computer science engineer</b>. My area of expertise is <b>artificial intelligence</b> <b>Flutter development</b> and <b>android app development</b> . In addition, I have knowledge of <b>robotics</b>, <b>graphics design</b>, <b>flutter app development</b>, <b>internet of things</b> and so on. In my leisure time, I like to play FIFA, GTA V,Clash of Clan and Valorant. I enjoy doing Photography, watching web series and fiction movies. Football is one of my favorite sports to play and watch..
+I am a computer science engineer. My area of expertise is ML and Robotics. 
 </p>
 
 <h2 align="left">About me:</h2>
