@@ -11,7 +11,7 @@
 
 
 <p align="justify">
-I am a computer science engineer. My area of expertise is ML and Robotics. 
+I am a computer science engineer. My area of expertise is Mechine Learning and Robotics. 
 </p>
 
 <h2 align="left">About me:</h2>
