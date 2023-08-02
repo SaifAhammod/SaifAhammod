@@ -41,20 +41,19 @@ Saif Ahammod Khan is a researcher in the fields of Robotics and Artificial Intel
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://saifahammod.me/" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/coding.png" alt="saifahammod.me" height="30" width="30" /></a>
-<a href="https://twitter.com/s4if_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4if_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-saif-ahammod-khan-04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saif-ahammod-khan-04" height="30" width="40" /></a>
-<a href="https://kaggle.com/mdsaifahammodkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdsaifahammodkhan" height="30" width="40" /></a>
-<a href="https://fb.com/s41fkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s41fkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/s41f_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s41f_khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCltyvTSm1860UvUkWZ7n9SQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s41f khan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/eAmRNNMr9N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eAmRNNMr9N" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Md_Saif_Khan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-2752086-2284903.png" alt="https://www.researchgate.net/profile/Md_Saif_Khan" height="30" width="30" /></a>
-<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=gwOb2jsAAAAJ" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/gs.png" alt="saifahammod.me" height="30" width="30" /></a>
+  <!-- Official Website -->
+  <a href="https://saifahammod.me/" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/coding.png" alt="saifahammod.me" height="30" width="30" /></a>
+   <!-- Twitter -->
+  <a href="https://twitter.com/s4if_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"      alt="s4if_khan" height="30" width="40" /></a>
+   <!-- Linkedin -->
+  <a href="https://linkedin.com/in/md-saif-ahammod-khan-04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saif-ahammod-khan-04" height="30" width="40" /></a>
+  <!-- Facebook  -->
+  <a href="https://fb.com/s41fkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s41fkhan" height="30" width="40" /></a>
 </p>
-<h2 align="left">Technical Skills:</h2>
 
-<p align="left"> 
+<h2 align="left">Technical Skills:</h2>
+<p align="left">
+<!-- JAVA -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
