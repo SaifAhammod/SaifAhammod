@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@gmail.com)
 
 ### Hello.
-# It's Saif here..
+# It's Saif here.
 
 
 
@@ -17,27 +17,13 @@ Saif Ahammod Khan is a researcher in the fields of Robotics and Artificial Intel
 
 - 🔭 I’m currently working on [Object Detection]([https://github.com/saif-ahammod/](https://github.com/saif-ahammod/Fire-and-smoke-detection))
 
-- 🌱 I’m currently learning [Flutter and Dart](https://github.com/saif-ahammod/Flutter-and-Dart)
-<!--
-- 👯 I’m looking to collaborate on [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
-
-- 🤝 I’m looking for help with [N/A](https://www.linkedin.com/in/md-saif-ahammod-khan-04/)
--->
 - 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
 
 - 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
-<!--
-- 📝 I regularly write articles on [https://saifahammod.me/](https://saifahammod.me/)
--->
+
 - 💬 Ask me about **Java, Mechine Learning and Robotics**
 
-<!-- 
-- 📫 To reach me mail me at **saif.ahammod@gmail.com**
--->
 - 📄 Know about my experiences [Experience](https://saifahammod.me/experience.html)
-
-- ⚡ Fun fact **My favourite food is potato.**
-
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
