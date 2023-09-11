@@ -10,12 +10,12 @@
 
 
 <p align="justify">
-Saif Ahammod Khan is a researcher in the fields of Robotics and Artificial Intelligence. He holds a remarkable academic record, having graduated with Magna Cum Laude honors from North South University (NSU), where he earned a Bachelor's degree in Computer Science and Engineering (CSE). As a current MS student at NSU, Saif is embracing the opportunity to delve deeper into the complexities of Robotics and AI. He is actively engaged in various research projects, collaborating with renowned faculty members and fellow students to address real-world challenges in these fields. My area of expertise Learning and Robotics.
+Saif Ahammod Khan is a researcher in the fields of Robotics and Artificial Intelligence. He holds a remarkable academic record, having graduated with Magna Cum Laude honors from North South University (NSU), where he earned a Bachelor's degree in Computer Science and Engineering (CSE). As a current MS student at NSU, Saif is embracing the opportunity to delve deeper into the complexities of Robotics and AI. He is actively engaged in various research projects, collaborating with renowned faculty members and fellow students to address real-world challenges in these fields.
 </p>
 
 <h2 align="left">About me:</h2>
 
-- 🔭 I’m currently working on [Object Detection]([https://github.com/saif-ahammod/](https://github.com/saif-ahammod/Fire-and-smoke-detection))
+- 🔭 I’m currently working on [Computer Vison]([https://github.com/saif-ahammod/](https://github.com/saif-ahammod/Fire-and-smoke-detection))
 
 - 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
 
