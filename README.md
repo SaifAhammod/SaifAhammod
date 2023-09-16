@@ -10,7 +10,7 @@
 
 
 <p align="justify">
-Saif Ahammod Khan is a researcher in the fields of Robotics and Artificial Intelligence. He holds a remarkable academic record, having graduated with Magna Cum Laude honors from North South University (NSU), where he earned a Bachelor's degree in Computer Science and Engineering (CSE). As a current MS student at NSU, Saif is embracing the opportunity to delve deeper into the complexities of Robotics and AI. He is actively engaged in various research projects, collaborating with renowned faculty members and fellow students to address real-world challenges in these fields.
+Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He holds a remarkable academic record, having graduated with Magna Cum Laude honors from North South University (NSU), where he earned a Bachelor's degree in Computer Science and Engineering (CSE). As a current MS student at NSU, Saif is embracing the opportunity to delve deeper into the complexities of Robotics and AI. He is actively engaged in various research projects, collaborating with renowned faculty members and fellow students to address real-world challenges in these fields.
 </p>
 
 <h2 align="left">About me:</h2>
