@@ -19,7 +19,7 @@ Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He ho
 
 - 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
 
-- 💼 Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
+- 💼 Research Assistant at North South University
 
 - 💬 Ask me about **Java, Mechine Learning and Robotics**
 
