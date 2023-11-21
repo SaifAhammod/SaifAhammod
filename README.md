@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:saif.ahammod@gmail.com)
 
 ### Hello.
-# It's Saif here. he is swamped in deep sea
+# It's Saif here. 
 
 
 
