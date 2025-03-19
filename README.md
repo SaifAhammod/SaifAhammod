@@ -15,11 +15,11 @@ Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He ho
 
 - 🔭 I’m currently working on [Computer Vison]([https://github.com/saif-ahammod/](https://github.com/saif-ahammod/Fire-and-smoke-detection))
 
-- 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.me/mywork.html" target="_blank">Projects</a>
+- 👨‍💻 All of my major projects and publications are available at <a href="https://saifahammod.github.io/research.html" target="_blank">Projects</a>
 
 - 💼 Research Assistant at NSU Intelligent Robotics Lab (NIRO Lab)
 
-- 💬 Ask me about Java, Machine Learning and Robotics
+- 💬 Ask me about Robotics, Machine Learning and AI
 
 - 📄 Know about my experiences [Experience](https://saifahammod.me/experience.html)
 
@@ -37,32 +37,20 @@ Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He ho
 
 <h2 align="left">Technical Skills:</h2>
 <p align="left">
-  <!-- JAVA -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
   <!-- C-->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-  <!-- SQL -->
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/sql.png" alt="dart" width="30" height="30"/> </a>
-   <!-- Matlab -->
+  <!-- JAVA -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+  <!-- Matlab -->
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/matlab.png" alt="dart" width="30" height="30"/> </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
-    <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
-  <!-- My Sql -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-  <!-- Logisim -->
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/logisim.png" width="30" height="30"/> </a>
   <!-- Fritzing -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/fritzing-icon.png" width="30" height="30"/> </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
   <!-- Adobe Illustrator -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
   <!-- Adobe Photoshop -->
@@ -72,13 +60,3 @@ Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He ho
   <!-- Sketchup -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/saif-ahammod/saif-ahammod/blob/main/logo/sketchup.png" alt="Sketchup" width="30" height="30"/> </a>
 </p>
-
-<h2 align="left">Github Streaks :</h2>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saif-ahammod&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=08FF08&ring=11FfEE&fire=FA4616&currStreakLabel=11FfEE&currStreakNum=08FF08&sideNums=08FF08&sideLabels=11FfEE&dates=FFFFFF&background=DD272700">
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-ahammod&show_icons=true&theme=highcontrast) 
-
-</div>
