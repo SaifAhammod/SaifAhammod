@@ -21,12 +21,12 @@ Saif Ahammod Khan is a researcher in Robotics and Artificial Intelligence. He ho
 
 - 💬 Ask me about Robotics, Machine Learning and AI
 
-- 📄 Know about my experiences [Experience](https://saifahammod.me/experience.html)
+- 📄 Know about my experiences [Experience](https://saifahammod.github.io/experience.html)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <!-- Official Website -->
-  <a href="https://saifahammod.me/" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/coding.png" alt="saifahammod.me" height="30" width="30" /></a>
+  <a href="https://saifahammod.github.io/" target="blank"><img align="center" src="https://github.com/saif-ahammod/saif-ahammod/blob/main/coding.png" alt="saifahammod.me" height="30" width="30" /></a>
    <!-- Twitter -->
   <a href="https://twitter.com/s4if_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"      alt="s4if_khan" height="30" width="40" /></a>
    <!-- Linkedin -->
